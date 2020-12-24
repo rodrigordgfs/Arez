@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="31" viewBox="0 0 17 31">
+  <g id="_" data-name="+" transform="translate(-1130 -733)" opacity="0.4">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(1130 739)" fill="none" stroke="#00de71" stroke-width="1">
+      <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+      <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+    </g>
+    <text id="_2" data-name="+" transform="translate(1138 755)" fill="#00de71" font-size="24" font-family="IM_FELL_English_Roman, IM FELL English"><tspan x="-6.756" y="0">+</tspan></text>
+  </g>
+</svg>
