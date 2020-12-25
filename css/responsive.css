@@ -4,4 +4,40 @@
 
 /* Smartphone */
 @media only screen and (max-width: 787px) {
+  /* Header */
+  .band_names {
+      font-size: 1.125em;
+      margin-top: 100px;
+  }
+
+  .band_names li {
+    margin: 0 5px;
+  }
+
+  .menu {
+      font-size: 1.5em;
+  }
+
+  .menu ul li {
+    margin: 0 4px;
+  }
+
+  /* Shows */
+  .schedule_item .schedule_item_date {
+    text-align: center;
+  }
+
+  .schedule_item .schedule_item_info {
+    text-align: center;
+  }
+
+  /* Contact */
+  .social_networks ul li a img {
+      width: 40px;
+  }
+
+  .social_networks ul li .separator {
+    margin-top: -25px;
+    width: 10px;
+ }
 }
