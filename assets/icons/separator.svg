@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="92" viewBox="0 0 20 92">
-  <text id="separator" transform="translate(10 71)" fill="#fff" font-size="75" font-family="NewRocker-Regular, New Rocker"><tspan x="-9.038" y="0">.</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="92" viewBox="0 0 20 92"><text id="separator" fill="#fff" font-family="NewRocker-Regular, New Rocker" font-size="75" transform="translate(10 71)"><tspan x="-9.038" y="0">.</tspan></text></svg>
